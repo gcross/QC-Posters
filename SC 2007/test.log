@@ -1,0 +1,211 @@
+This is pdfeTeX, Version 3.141592-1.20a-2.2 (Web2C 7.5.3) (format=latex 2005.9.1)  25 OCT 2007 11:42
+entering extended mode
+**test
+(./test.tex
+LaTeX2e <2003/12/01>
+Babel <v3.8d> and hyphenation patterns for american, french, german, ngerman, d
+utch, greek, italian, latin, norsk, portuges, spanish, swedish, nohyphenation, 
+loaded.
+(/usr/local/teTeX/share/texmf.tetex/tex/latex/base/minimal.cls
+Document Class: minimal 2001/05/25 Standard LaTeX minimal class
+) (/usr/local/teTeX/share/texmf.tetex/tex/latex/psnfss/times.sty
+Package: times 2004/09/15 PSNFSS-v9.2 (SPQR) 
+)
+(/usr/local/teTeX/share/texmf.tetex/tex/latex/psnfss/mathptm.sty
+Package: mathptm 2004/09/15 PSNFSS-v9.2 Times w/ Math (SPQR, WaS) 
+
+
+Package mathptm Warning: This package is to be regarded as obsolete.
+(mathptm)                See the PSNFSS documentation.
+
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ptmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptmcm/m/n on input line 31.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 32.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ptmcm/m/it on input line 32.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ptmcm/m/it on input line 32.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 33.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/pzccm/m/n on input line 33.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/pzccm/m/n on input line 33.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 34.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 34.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 34.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 37.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 38.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 38.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 38.
+) (/usr/local/teTeX/share/texmf.tetex/tex/latex/ulem/ulem.sty
+\UL@box=\box26
+\UL@hyphenbox=\box27
+\UL@skip=\skip41
+\UL@hook=\toks14
+\UL@pe=\count79
+\UL@pixel=\dimen102
+\ULC@box=\box28
+Package: ulem 2000/05/26
+\ULdepth=\dimen103
+)
+(/Users/gcross/Documents/macros.tex)
+(/usr/local/teTeX/share/texmf.tetex/tex/latex/jknappen/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+
+! LaTeX Error: \labelitemi undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 \renewcommand{\labelitemi}
+                               {$\bullet$}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \labelitemii undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 \renewcommand{\labelitemii}
+                                {--}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \labelitemiii undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \renewcommand{\labelitemiii}
+                                 {*}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \labelitemiv undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \renewcommand{\labelitemiv}
+                                {$\cdot$}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \labelenumi undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \renewcommand{\labelenumi}
+                               {\arabic{enumi}.}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \labelenumii undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 \renewcommand{\labelenumii}
+                                {(\alph{enumii})}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \labelenumiii undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 \renewcommand{\labelenumiii}
+                                 {\roman{enumiii}.}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \labelenumiv undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 \renewcommand{\labelenumiv}
+                                {(\Alph{enumiv})}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+(./test.aux)
+\openout1 = `test.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 40.
+(/usr/local/teTeX/share/texmf.tetex/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+\big@size=\dimen104
+
+! LaTeX Error: File `fontsize_file.tex' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.42 \whatsize
+              ^^M
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 400 strings out of 95196
+ 3522 string characters out of 1184071
+ 2047305 words of memory out of 4502112
+ 3591 multiletter control sequences out of 10000+50000
+ 4253 words of font info for 16 fonts, out of 2000000 for 2000
+ 58 hyphenation exceptions out of 1000
+ 19i,0n,21p,232b,77s stack positions out of 5000i,500n,6000p,200000b,40000s
+ 0 PDF objects out of 300000
+ 0 named destinations out of 131072
+ 1 words of extra memory for PDF output out of 65536
+No pages of output.

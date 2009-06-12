@@ -1,0 +1,62 @@
+%{EStemplateinfo}Basic math mode (sandwiches everything between two $). Use \mbox{} to include text.  The column width is not fixed, and the bounding box sizes itself to match the height and width of the text.{EStemplateinfo}
+
+\documentclass{minimal}
+
+\usepackage{times}
+\usepackage{mathptm}
+
+
+% My stuff
+\usepackage{ulem}
+\input{/Users/gcross/Documents/macros.tex}
+
+\usepackage{mathrsfs}
+        
+\batchmode
+
+\renewcommand{\labelitemi}{$\bullet$}
+\renewcommand{\labelitemii}{--}
+\renewcommand{\labelitemiii}{*}
+\renewcommand{\labelitemiv}{$\cdot$}
+
+\renewcommand{\labelenumi}{\arabic{enumi}.}
+\renewcommand{\labelenumii}{(\alph{enumii})}
+\renewcommand{\labelenumiii}{\roman{enumiii}.}
+\renewcommand{\labelenumiv}{(\Alph{enumiv})}
+
+\newcommand{\tiny}{\fontsize{4pt}{6pt}\selectfont}      
+\newcommand{\footnotesize}{\fontsize{6pt}{8pt}\selectfont}      
+\newcommand{\scriptsize}{\fontsize{8pt}{10pt}\selectfont}      
+\newcommand{\small}{\fontsize{10pt}{12pt}\selectfont}   
+\renewcommand{\normalsize}{\fontsize{10pt}{12pt}\selectfont}    
+\newcommand{\large}{\fontsize{12pt}{14pt}\selectfont}   
+\newcommand{\Large}{\fontsize{16pt}{18pt}\selectfont}   
+\newcommand{\huge}{\fontsize{20pt}{22pt}\selectfont}    
+\newcommand{\Huge}{\fontsize{25pt}{30pt}\selectfont}    
+
+\newcommand{\whatsize}{\input{fontsize_file}}   
+\newcommand{\putstuff}{\input{forecolor} \input{boldstate}$\displaystyle \input{myeqn}$}
+
+\begin{document}
+
+\whatsize
+\setlength{\leftmargin}{\myfont}
+\setlength{\labelsep}{.25\myfont}
+
+\newcommand*{\shipoutpdf}[1]{
+\newpage
+\setlength{\parindent}{0cm}
+\setlength{\leftmargin}{0cm}
+\setbox0=\vbox{\kern -1truein \kern .1ex
+        \hbox{\kern -1truein \kern .1ex #1 \kern 1truein \kern -.4ex}%
+        \kern 1truein \kern .1ex}%
+        \dimen0\ht0
+\advance\dimen0\dp0
+\setlength{\pdfpageheight}{\dimen0}
+\setlength{\pdfpagewidth}{\wd0}
+\shipout\box0
+}
+
+\shipoutpdf{$\Psi^{\alpha\beta\gamma\delta} = \sum_{ijk} \paren{S_1}^{\alpha}_i \paren{S_2}^\beta_{ij} \paren{S_3}^\gamma_{jk} \paren{S_4}^\delta_{k}$}
+
+\end{document}
