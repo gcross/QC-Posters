@@ -661,6 +661,26 @@
        y1="5.3306427"
        x2="132.6924"
        y2="262.26544" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5441"
+       id="linearGradient47181"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5,0,0,0.5,-1060,-599.92015)"
+       x1="-981"
+       y1="-882.64032"
+       x2="-618.99988"
+       y2="-882.64032" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5441"
+       id="linearGradient47184"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5,0,0,0.5,-1430,-554.92017)"
+       x1="-981"
+       y1="-882.64032"
+       x2="-618.99988"
+       y2="-882.64032" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -670,8 +690,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="1163.51"
-     inkscape:cy="2506.4029"
+     inkscape:cx="1528.018"
+     inkscape:cy="2233.7536"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1015,26 +1035,25 @@
        id="path15712"
        sodipodi:nodetypes="cc" />
     <g
-       id="g42970"
-       transform="translate(40,0)">
+       id="g47186">
       <rect
-         style="fill:url(#linearGradient44679);fill-opacity:1;stroke:none"
+         style="fill:url(#linearGradient47184);fill-opacity:1;stroke:none"
          id="rect5449"
          width="179.89847"
          height="45.000061"
-         x="-1869.8984"
+         x="-1909.8984"
          y="-1018.7405"
          transform="scale(-1,1)" />
       <rect
          transform="scale(-1,1)"
          y="-1063.7404"
-         x="-1510"
+         x="-1550"
          height="45.000019"
          width="180.00006"
          id="rect6205"
-         style="fill:url(#linearGradient44681);fill-opacity:1;stroke:none" />
+         style="fill:url(#linearGradient47181);fill-opacity:1;stroke:none" />
       <g
-         transform="matrix(0.375,0,0,0.375,1126.2694,-659.22094)"
+         transform="matrix(0.375,0,0,0.375,1166.2694,-659.22094)"
          id="g14269">
         <g
            style="opacity:0.25"
@@ -1165,7 +1184,7 @@
              style="stroke-width:2">I</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1126.2694,-659.22094)"
+         transform="matrix(0.375,0,0,0.375,1166.2694,-659.22094)"
          id="g14215">
         <g
            style="opacity:0.25"
@@ -1296,7 +1315,7 @@
              style="stroke-width:2">I</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1126.2694,-659.22094)"
+         transform="matrix(0.375,0,0,0.375,1166.2694,-659.22094)"
          id="g14350">
         <g
            id="g13846"
@@ -1427,7 +1446,7 @@
              style="stroke-width:2">Z</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1126.2694,-659.22094)"
+         transform="matrix(0.375,0,0,0.375,1166.2694,-659.22094)"
          id="g14323">
         <g
            id="g13917"
@@ -1558,7 +1577,7 @@
              style="stroke-width:2">X</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1126.2694,-666.72094)"
+         transform="matrix(0.375,0,0,0.375,1166.2694,-666.72094)"
          id="g14188">
         <g
            transform="matrix(0.5859374,0,0,0.5859374,-1277.8384,-1628.7369)"
@@ -1689,7 +1708,7 @@
              sodipodi:role="line">I</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1126.2694,-666.72094)"
+         transform="matrix(0.375,0,0,0.375,1166.2694,-666.72094)"
          id="g14242">
         <g
            style="opacity:0.25"
@@ -1820,7 +1839,7 @@
              y="-843.64032">Z</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1126.2694,-666.72094)"
+         transform="matrix(0.375,0,0,0.375,1166.2694,-666.72094)"
          id="g14296">
         <g
            style="opacity:0.25"
@@ -1951,7 +1970,7 @@
              sodipodi:role="line">X</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1171.2694,-704.22094)"
+         transform="matrix(0.375,0,0,0.375,1211.2694,-704.22094)"
          id="g14377">
         <g
            style="opacity:0.25"
@@ -2082,7 +2101,7 @@
              y="-743.64032">Z</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1261.2694,-711.72094)"
+         transform="matrix(0.375,0,0,0.375,1301.2694,-711.72094)"
          id="g14429">
         <g
            style="opacity:0.25"
@@ -2213,7 +2232,7 @@
              style="stroke-width:2">I</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1081.2694,-711.72094)"
+         transform="matrix(0.375,0,0,0.375,1121.2694,-711.72094)"
          id="g14481">
         <g
            id="g14483"
@@ -2344,7 +2363,7 @@
              style="stroke-width:2">Z</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1081.2694,-711.72094)"
+         transform="matrix(0.375,0,0,0.375,1121.2694,-711.72094)"
          id="g14533">
         <g
            id="g14535"
@@ -2476,7 +2495,7 @@
       </g>
       <g
          id="g14585"
-         transform="matrix(0.375,0,0,0.375,1126.2694,-749.22094)">
+         transform="matrix(0.375,0,0,0.375,1166.2694,-749.22094)">
         <g
            id="g14587"
            transform="matrix(0.5859374,0,0,0.5859374,-1037.8384,-1528.7369)"
@@ -2608,16 +2627,16 @@
       <text
          id="text14637"
          y="-1028.8361"
-         x="1064.7694"
+         x="1104.7694"
          style="font-size:42px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
          xml:space="preserve"><tspan
            y="-1028.8361"
-           x="1064.7694"
+           x="1104.7694"
            id="tspan14639"
            sodipodi:role="line">H</tspan></text>
       <g
          style="stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
-         transform="matrix(0.375,0,0,0.375,1021.2694,-674.22094)"
+         transform="matrix(0.375,0,0,0.375,1061.2694,-674.22094)"
          id="g14649">
         <path
            style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -2634,7 +2653,7 @@
       </g>
       <g
          style="stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
-         transform="matrix(0.375,0,0,0.375,1021.2694,-629.22094)"
+         transform="matrix(0.375,0,0,0.375,1061.2694,-629.22094)"
          id="g14653">
         <path
            sodipodi:nodetypes="cc"
@@ -2651,25 +2670,25 @@
       </g>
       <path
          id="path14659"
-         d="m 1130.0194,-1044.5861 15,0"
+         d="m 1170.0194,-1044.5861 15,0"
          style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          id="path14661"
-         d="m 1130.0194,-1037.0861 15,0"
+         d="m 1170.0194,-1037.0861 15,0"
          style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text
          id="text14663"
          y="-1022.0862"
-         x="1103.7694"
+         x="1143.7694"
          style="font-size:21px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
          xml:space="preserve"><tspan
            y="-1022.0862"
-           x="1103.7694"
+           x="1143.7694"
            id="tspan14665"
            sodipodi:role="line">0</tspan></text>
       <g
          id="g16291"
-         transform="matrix(0.375,0,0,0.375,1846.2694,-659.22094)">
+         transform="matrix(0.375,0,0,0.375,1886.2694,-659.22094)">
         <g
            id="g16293"
            transform="matrix(0.5859374,0,0,0.5859374,-1157.8384,-1528.7369)"
@@ -2800,7 +2819,7 @@
       </g>
       <g
          id="g16343"
-         transform="matrix(0.375,0,0,0.375,1846.2694,-659.22094)">
+         transform="matrix(0.375,0,0,0.375,1886.2694,-659.22094)">
         <g
            transform="matrix(0.5859374,0,0,0.5859374,-1277.8384,-1528.7369)"
            id="g16345"
@@ -2931,7 +2950,7 @@
       </g>
       <g
          id="g16395"
-         transform="matrix(0.375,0,0,0.375,1846.2694,-659.22094)">
+         transform="matrix(0.375,0,0,0.375,1886.2694,-659.22094)">
         <g
            style="opacity:0.25"
            transform="matrix(0.5859374,0,0,0.5859374,-1037.8384,-1528.7369)"
@@ -3062,7 +3081,7 @@
       </g>
       <g
          id="g16447"
-         transform="matrix(0.375,0,0,0.375,1846.2694,-659.22094)">
+         transform="matrix(0.375,0,0,0.375,1886.2694,-659.22094)">
         <g
            style="opacity:0.25"
            transform="matrix(0.5859374,0,0,0.5859374,-917.8384,-1528.7369)"
@@ -3193,7 +3212,7 @@
       </g>
       <g
          id="g16499"
-         transform="matrix(0.375,0,0,0.375,1846.2694,-666.72094)">
+         transform="matrix(0.375,0,0,0.375,1886.2694,-666.72094)">
         <g
            style="opacity:0.25"
            id="g16501"
@@ -3324,7 +3343,7 @@
       </g>
       <g
          id="g16707"
-         transform="matrix(0.375,0,0,0.375,1981.2694,-711.72094)">
+         transform="matrix(0.375,0,0,0.375,2021.2694,-711.72094)">
         <g
            transform="matrix(0.5859374,0,0,0.5859374,-1277.8384,-1628.7369)"
            id="g16709"
@@ -3455,7 +3474,7 @@
       </g>
       <g
          id="g16811"
-         transform="matrix(0.375,0,0,0.375,1801.2694,-666.77782)">
+         transform="matrix(0.375,0,0,0.375,1841.2694,-666.77782)">
         <g
            style="opacity:0.25"
            transform="matrix(0.5859374,0,0,0.5859374,-1037.8384,-1628.7369)"
@@ -3587,25 +3606,25 @@
       <text
          xml:space="preserve"
          style="font-size:42px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
-         x="1784.7694"
+         x="1824.7694"
          y="-1028.8361"
          id="text16915"><tspan
            sodipodi:role="line"
            id="tspan16917"
-           x="1784.7694"
+           x="1824.7694"
            y="-1028.8361">H</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:21px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
-         x="1823.7694"
+         x="1863.7694"
          y="-1022.0862"
          id="text16935"><tspan
            sodipodi:role="line"
            id="tspan16937"
-           x="1823.7694"
+           x="1863.7694"
            y="-1022.0862">2</tspan></text>
       <g
-         transform="matrix(0.375,0,0,0.375,1486.2694,-659.22094)"
+         transform="matrix(0.375,0,0,0.375,1526.2694,-659.22094)"
          id="g16941">
         <g
            style="opacity:0.25"
@@ -3736,7 +3755,7 @@
              style="stroke-width:2">I</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1486.2694,-659.22094)"
+         transform="matrix(0.375,0,0,0.375,1526.2694,-659.22094)"
          id="g16993">
         <g
            style="opacity:0.25"
@@ -3867,7 +3886,7 @@
              style="stroke-width:2">I</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1486.2694,-659.22094)"
+         transform="matrix(0.375,0,0,0.375,1526.2694,-659.22094)"
          id="g17045">
         <g
            id="g17047"
@@ -3998,7 +4017,7 @@
              style="stroke-width:2">Z</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1486.2694,-659.22094)"
+         transform="matrix(0.375,0,0,0.375,1526.2694,-659.22094)"
          id="g17097">
         <g
            id="g17099"
@@ -4129,7 +4148,7 @@
              style="stroke-width:2">X</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1486.2694,-666.72094)"
+         transform="matrix(0.375,0,0,0.375,1526.2694,-666.72094)"
          id="g17149">
         <g
            transform="matrix(0.5859374,0,0,0.5859374,-1277.8384,-1628.7369)"
@@ -4260,7 +4279,7 @@
              sodipodi:role="line">I</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1486.2694,-666.72094)"
+         transform="matrix(0.375,0,0,0.375,1526.2694,-666.72094)"
          id="g17201">
         <g
            style="opacity:0.25"
@@ -4391,7 +4410,7 @@
              y="-843.64032">Z</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1486.2694,-666.72094)"
+         transform="matrix(0.375,0,0,0.375,1526.2694,-666.72094)"
          id="g17253">
         <g
            style="opacity:0.25"
@@ -4522,7 +4541,7 @@
              sodipodi:role="line">X</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1531.2694,-704.22094)"
+         transform="matrix(0.375,0,0,0.375,1571.2694,-704.22094)"
          id="g17305">
         <g
            style="opacity:0.25"
@@ -4653,7 +4672,7 @@
              y="-743.64032">Z</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1621.2694,-711.72094)"
+         transform="matrix(0.375,0,0,0.375,1661.2694,-711.72094)"
          id="g17357">
         <g
            style="opacity:0.25"
@@ -4784,7 +4803,7 @@
              style="stroke-width:2">I</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1396.2694,-711.72094)"
+         transform="matrix(0.375,0,0,0.375,1436.2694,-711.72094)"
          id="g17461">
         <g
            id="g17463"
@@ -4917,26 +4936,26 @@
       <text
          id="text17565"
          y="-1028.8361"
-         x="1424.7694"
+         x="1464.7694"
          style="font-size:42px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
          xml:space="preserve"><tspan
            y="-1028.8361"
-           x="1424.7694"
+           x="1464.7694"
            id="tspan17567"
            sodipodi:role="line">H</tspan></text>
       <text
          id="text17585"
          y="-1022.0862"
-         x="1463.7694"
+         x="1503.7694"
          style="font-size:21px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
          xml:space="preserve"><tspan
            y="-1022.0862"
-           x="1463.7694"
+           x="1503.7694"
            id="tspan17587"
            sodipodi:role="line">1</tspan></text>
       <g
          id="g18561"
-         transform="matrix(0.375,0,0,0.375,1576.2694,-711.72094)">
+         transform="matrix(0.375,0,0,0.375,1616.2694,-711.72094)">
         <g
            transform="matrix(0.5859374,0,0,0.5859374,-1277.8384,-1628.7369)"
            id="g18563"
@@ -5066,7 +5085,7 @@
              sodipodi:role="line">I</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1531.2694,-711.72094)"
+         transform="matrix(0.375,0,0,0.375,1571.2694,-711.72094)"
          id="g18613">
         <g
            style="opacity:0.25"
@@ -5197,7 +5216,7 @@
              style="stroke-width:2">I</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1891.2694,-711.72094)"
+         transform="matrix(0.375,0,0,0.375,1931.2694,-711.72094)"
          id="g18665">
         <g
            style="opacity:0.25"
@@ -5328,7 +5347,7 @@
              style="stroke-width:2">I</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1936.2694,-711.72094)"
+         transform="matrix(0.375,0,0,0.375,1976.2694,-711.72094)"
          id="g18769">
         <g
            style="opacity:0.25"
@@ -5460,7 +5479,7 @@
       </g>
       <g
          id="g18821"
-         transform="matrix(0.375,0,0,0.375,1936.2694,-666.72094)">
+         transform="matrix(0.375,0,0,0.375,1976.2694,-666.72094)">
         <g
            transform="matrix(0.5859374,0,0,0.5859374,-1277.8384,-1628.7369)"
            id="g18823"
@@ -5590,7 +5609,7 @@
              sodipodi:role="line">I</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1981.2694,-666.72094)"
+         transform="matrix(0.375,0,0,0.375,2021.2694,-666.72094)"
          id="g18873">
         <g
            style="opacity:0.25"
@@ -5721,7 +5740,7 @@
              style="stroke-width:2">I</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1756.2694,-711.77783)"
+         transform="matrix(0.375,0,0,0.375,1796.2694,-711.77783)"
          id="g18925">
         <g
            id="g18927"
@@ -5853,7 +5872,7 @@
       </g>
       <g
          id="g18977"
-         transform="matrix(0.375,0,0,0.375,1261.2694,-511.72094)">
+         transform="matrix(0.375,0,0,0.375,1301.2694,-511.72094)">
         <g
            transform="matrix(0.5859374,0,0,0.5859374,-1277.8384,-1628.7369)"
            id="g18979"
@@ -5984,7 +6003,7 @@
       </g>
       <g
          id="g19029"
-         transform="matrix(0.375,0,0,0.375,1081.2694,-451.77783)">
+         transform="matrix(0.375,0,0,0.375,1121.2694,-451.77783)">
         <g
            style="opacity:0.25"
            transform="matrix(0.5859374,0,0,0.5859374,-1157.8384,-1628.7369)"
@@ -6115,14 +6134,14 @@
       </g>
       <rect
          y="-863.7403"
-         x="1150"
+         x="1190"
          height="45"
          width="180"
          id="rect19185"
          style="color:#000000;fill:none;stroke:#a4a4a4;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
          y="-1063.7404"
-         x="1150"
+         x="1190"
          height="135"
          width="180"
          id="rect19187"
@@ -6130,82 +6149,82 @@
       <path
          sodipodi:nodetypes="cc"
          id="path19861"
-         d="m 1150,-1018.7403 180,0"
+         d="m 1190,-1018.7403 180,0"
          style="fill:none;stroke:#a4a4a4;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          id="path19863"
-         d="m 1150,-973.7403 180,0"
+         d="m 1190,-973.7403 180,0"
          style="fill:none;stroke:#a4a4a4;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text
          sodipodi:linespacing="125%"
          id="text19865"
          y="-1078.7404"
-         x="1175"
+         x="1215"
          style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
          xml:space="preserve"><tspan
            y="-1078.7404"
-           x="1175"
+           x="1215"
            id="tspan19867"
            sodipodi:role="line">Stabilizers</tspan></text>
       <path
          id="path19869"
-         d="m 1310,-1083.7403 15,0 0,15"
+         d="m 1350,-1083.7403 15,0 0,15"
          style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          id="path19871"
-         d="m 1170,-1083.7403 -15,0 0,15"
+         d="m 1210,-1083.7403 -15,0 0,15"
          style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <text
          xml:space="preserve"
          style="font-size:42px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
-         x="1069.3837"
+         x="1109.3837"
          y="-828.83606"
          id="text19873"><tspan
            sodipodi:role="line"
            id="tspan19875"
-           x="1069.3837"
+           x="1109.3837"
            y="-828.83606">X</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:21px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
-         x="1103.7694"
+         x="1143.7694"
          y="-822.08606"
          id="text19877"><tspan
            sodipodi:role="line"
            id="tspan19879"
-           x="1103.7694"
+           x="1143.7694"
            y="-822.08606">0</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 1130.0194,-844.58605 15,0"
+         d="m 1170.0194,-844.58605 15,0"
          id="path19881" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 1130.0194,-837.08605 15,0"
+         d="m 1170.0194,-837.08605 15,0"
          id="path19883" />
       <text
          xml:space="preserve"
          style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
-         x="1200"
+         x="1245.3652"
          y="-878.7403"
          id="text19885"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan19887"
-           x="1200"
-           y="-878.7403">Qubits</tspan></text>
+           x="1245.3652"
+           y="-878.7403">Qubit </tspan></text>
       <path
          sodipodi:nodetypes="ccc"
          style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 1285,-883.7403 40,0 0,15"
+         d="m 1321,-883.7403 44,0 0,15"
          id="path19889" />
       <path
          sodipodi:nodetypes="ccc"
          style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 1195,-883.7403 -40,0 0,15"
+         d="m 1239,-883.7403 -44,0 0,15"
          id="path19891" />
       <g
-         transform="matrix(0.375,0,0,0.375,1261.2694,-451.72094)"
+         transform="matrix(0.375,0,0,0.375,1301.2694,-451.72094)"
          id="g19893">
         <g
            style="opacity:0.25"
@@ -6336,7 +6355,7 @@
              style="stroke-width:2">I</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1126.2694,-511.77783)"
+         transform="matrix(0.375,0,0,0.375,1166.2694,-511.77783)"
          id="g19945">
         <g
            id="g19947"
@@ -6467,7 +6486,7 @@
              style="stroke-width:2">Z</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1036.2694,-511.77783)"
+         transform="matrix(0.375,0,0,0.375,1076.2694,-511.77783)"
          id="g19997">
         <g
            id="g19999"
@@ -6602,49 +6621,49 @@
          id="rect20101"
          width="180"
          height="45"
-         x="1150"
+         x="1190"
          y="-803.7403" />
       <text
          id="text20103"
          y="-768.83606"
-         x="1071.537"
+         x="1111.537"
          style="font-size:42px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
          xml:space="preserve"><tspan
            y="-768.83606"
-           x="1071.537"
+           x="1111.537"
            id="tspan20105"
            sodipodi:role="line">Z</tspan></text>
       <text
          id="text20107"
          y="-762.08606"
-         x="1103.7694"
+         x="1143.7694"
          style="font-size:21px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
          xml:space="preserve"><tspan
            y="-762.08606"
-           x="1103.7694"
+           x="1143.7694"
            id="tspan20109"
            sodipodi:role="line">0</tspan></text>
       <path
          id="path20111"
-         d="m 1130.0194,-784.58605 15,0"
+         d="m 1170.0194,-784.58605 15,0"
          style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          id="path20113"
-         d="m 1130.0194,-777.08605 15,0"
+         d="m 1170.0194,-777.08605 15,0"
          style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          sodipodi:nodetypes="cc"
          id="path20115"
-         d="m 1065,-863.7403 37.5,0"
+         d="m 1105,-863.7403 37.5,0"
          style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 1067.5,-803.7403 35,0"
+         d="m 1107.5,-803.7403 35,0"
          id="path20117" />
       <g
          id="g4114"
-         transform="matrix(0.375,0,0,0.375,1381.2694,-674.22094)"
+         transform="matrix(0.375,0,0,0.375,1421.2694,-674.22094)"
          style="stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none">
         <path
            sodipodi:nodetypes="cc"
@@ -6661,7 +6680,7 @@
       </g>
       <g
          id="g4120"
-         transform="matrix(0.375,0,0,0.375,1381.2694,-629.22094)"
+         transform="matrix(0.375,0,0,0.375,1421.2694,-629.22094)"
          style="stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none">
         <path
            style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -6678,106 +6697,106 @@
       </g>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 1490.0194,-1044.5861 15,0"
+         d="m 1530.0194,-1044.5861 15,0"
          id="path4127" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 1490.0194,-1037.0861 15,0"
+         d="m 1530.0194,-1037.0861 15,0"
          id="path4129" />
       <rect
          style="color:#000000;fill:none;stroke:#a4a4a4;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect4339"
          width="180"
          height="45"
-         x="1510"
+         x="1550"
          y="-863.7403" />
       <rect
          style="color:#000000;fill:none;stroke:#a4a4a4;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect4341"
          width="180"
          height="135"
-         x="1510"
+         x="1550"
          y="-1063.7404" />
       <path
          style="fill:none;stroke:#a4a4a4;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 1510,-1018.7403 180,0"
+         d="m 1550,-1018.7403 180,0"
          id="path4343"
          sodipodi:nodetypes="cc" />
       <path
          style="fill:none;stroke:#a4a4a4;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 1510,-973.7403 180,0"
+         d="m 1550,-973.7403 180,0"
          id="path4345" />
       <text
          xml:space="preserve"
          style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
-         x="1535"
+         x="1575"
          y="-1078.7404"
          id="text4347"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan4349"
-           x="1535"
+           x="1575"
            y="-1078.7404">Stabilizers</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 1670,-1083.7403 15,0 0,15"
+         d="m 1710,-1083.7403 15,0 0,15"
          id="path4351" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 1530,-1083.7403 -15,0 0,15"
+         d="m 1570,-1083.7403 -15,0 0,15"
          id="path4353" />
       <text
          id="text4355"
          y="-828.83606"
-         x="1429.3837"
+         x="1469.3837"
          style="font-size:42px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
          xml:space="preserve"><tspan
            y="-828.83606"
-           x="1429.3837"
+           x="1469.3837"
            id="tspan4357"
            sodipodi:role="line">X</tspan></text>
       <text
          id="text4359"
          y="-822.08606"
-         x="1463.7694"
+         x="1503.7694"
          style="font-size:21px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
          xml:space="preserve"><tspan
            y="-822.08606"
-           x="1463.7694"
+           x="1503.7694"
            id="tspan4361"
            sodipodi:role="line">1</tspan></text>
       <path
          id="path4363"
-         d="m 1490.0194,-844.58605 15,0"
+         d="m 1530.0194,-844.58605 15,0"
          style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          id="path4365"
-         d="m 1490.0194,-837.08605 15,0"
+         d="m 1530.0194,-837.08605 15,0"
          style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text
          sodipodi:linespacing="125%"
          id="text4367"
          y="-878.7403"
-         x="1560"
+         x="1605.4648"
          style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
          xml:space="preserve"><tspan
            y="-878.7403"
-           x="1560"
+           x="1605.4648"
            id="tspan4369"
-           sodipodi:role="line">Qubits</tspan></text>
+           sodipodi:role="line">Qubit</tspan></text>
       <path
          id="path4371"
-         d="m 1645,-883.7403 40,0 0,15"
+         d="m 1681,-883.7403 44,0 0,15"
          style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          sodipodi:nodetypes="ccc" />
       <path
          id="path4373"
-         d="m 1555,-883.7403 -40,0 0,15"
+         d="m 1599,-883.7403 -44,0 0,15"
          style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          sodipodi:nodetypes="ccc" />
       <rect
          y="-803.7403"
-         x="1510"
+         x="1550"
          height="45"
          width="180"
          id="rect4583"
@@ -6785,44 +6804,44 @@
       <text
          xml:space="preserve"
          style="font-size:42px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
-         x="1431.537"
+         x="1471.537"
          y="-768.83606"
          id="text4585"><tspan
            sodipodi:role="line"
            id="tspan4587"
-           x="1431.537"
+           x="1471.537"
            y="-768.83606">Z</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:21px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
-         x="1463.7694"
+         x="1503.7694"
          y="-762.08606"
          id="text4589"><tspan
            sodipodi:role="line"
            id="tspan4591"
-           x="1463.7694"
+           x="1503.7694"
            y="-762.08606">1</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 1490.0194,-784.58605 15,0"
+         d="m 1530.0194,-784.58605 15,0"
          id="path4593" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 1490.0194,-777.08605 15,0"
+         d="m 1530.0194,-777.08605 15,0"
          id="path4595" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 1425,-863.7403 37.5,0"
+         d="m 1465,-863.7403 37.5,0"
          id="path4597"
          sodipodi:nodetypes="cc" />
       <path
          id="path4599"
-         d="m 1427.5,-803.7403 35,0"
+         d="m 1467.5,-803.7403 35,0"
          style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          sodipodi:nodetypes="cc" />
       <g
          style="stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
-         transform="matrix(0.375,0,0,0.375,1741.2695,-674.22094)"
+         transform="matrix(0.375,0,0,0.375,1781.2695,-674.22094)"
          id="g4601">
         <path
            style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -6839,7 +6858,7 @@
       </g>
       <g
          style="stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
-         transform="matrix(0.375,0,0,0.375,1741.2695,-629.22094)"
+         transform="matrix(0.375,0,0,0.375,1781.2695,-629.22094)"
          id="g4607">
         <path
            sodipodi:nodetypes="cc"
@@ -6856,22 +6875,22 @@
       </g>
       <path
          id="path4613"
-         d="m 1850.0195,-1044.5861 15,0"
+         d="m 1890.0195,-1044.5861 15,0"
          style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          id="path4615"
-         d="m 1850.0195,-1037.0861 15,0"
+         d="m 1890.0195,-1037.0861 15,0"
          style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <rect
          y="-863.7403"
-         x="1870"
+         x="1910"
          height="45"
          width="180"
          id="rect4825"
          style="color:#000000;fill:none;stroke:#a4a4a4;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
          y="-1063.7404"
-         x="1870"
+         x="1910"
          height="135"
          width="180"
          id="rect4827"
@@ -6879,128 +6898,128 @@
       <path
          sodipodi:nodetypes="cc"
          id="path4829"
-         d="m 1870,-1018.7403 180,0"
+         d="m 1910,-1018.7403 180,0"
          style="fill:none;stroke:#a4a4a4;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          id="path4831"
-         d="m 1870,-973.7403 180,0"
+         d="m 1910,-973.7403 180,0"
          style="fill:none;stroke:#a4a4a4;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text
          sodipodi:linespacing="125%"
          id="text4833"
          y="-1078.7404"
-         x="1895"
+         x="1935"
          style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
          xml:space="preserve"><tspan
            y="-1078.7404"
-           x="1895"
+           x="1935"
            id="tspan4835"
            sodipodi:role="line">Stabilizers</tspan></text>
       <path
          id="path4837"
-         d="m 2030,-1083.7403 15,0 0,15"
+         d="m 2070,-1083.7403 15,0 0,15"
          style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          id="path4839"
-         d="m 1890,-1083.7403 -15,0 0,15"
+         d="m 1930,-1083.7403 -15,0 0,15"
          style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <text
          xml:space="preserve"
          style="font-size:42px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
-         x="1789.3837"
+         x="1829.3837"
          y="-828.83606"
          id="text4841"><tspan
            sodipodi:role="line"
            id="tspan4843"
-           x="1789.3837"
+           x="1829.3837"
            y="-828.83606">X</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:21px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
-         x="1823.7694"
+         x="1863.7694"
          y="-822.08606"
          id="text4845"><tspan
            sodipodi:role="line"
            id="tspan4847"
-           x="1823.7694"
+           x="1863.7694"
            y="-822.08606">2</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 1850.0195,-844.58605 15,0"
+         d="m 1890.0195,-844.58605 15,0"
          id="path4849" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 1850.0195,-837.08605 15,0"
+         d="m 1890.0195,-837.08605 15,0"
          id="path4851" />
       <text
          xml:space="preserve"
          style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
-         x="1920"
+         x="1965.4648"
          y="-878.7403"
          id="text4853"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan4855"
-           x="1920"
-           y="-878.7403">Qubits</tspan></text>
+           x="1965.4648"
+           y="-878.7403">Qubit</tspan></text>
       <path
          sodipodi:nodetypes="ccc"
          style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 2005,-883.7403 40,0 0,15"
+         d="m 2041,-883.7403 44,0 0,15"
          id="path4857" />
       <path
          sodipodi:nodetypes="ccc"
          style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 1915,-883.7403 -40,0 0,15"
+         d="m 1959,-883.7403 -44,0 0,15"
          id="path4859" />
       <rect
          style="color:#000000;fill:none;stroke:#a4a4a4;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect5069"
          width="180"
          height="45"
-         x="1870"
+         x="1910"
          y="-803.7403" />
       <text
          id="text5071"
          y="-768.83606"
-         x="1791.537"
+         x="1831.537"
          style="font-size:42px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
          xml:space="preserve"><tspan
            y="-768.83606"
-           x="1791.537"
+           x="1831.537"
            id="tspan5073"
            sodipodi:role="line">Z</tspan></text>
       <text
          id="text5075"
          y="-762.08606"
-         x="1823.7694"
+         x="1863.7694"
          style="font-size:21px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
          xml:space="preserve"><tspan
            y="-762.08606"
-           x="1823.7694"
+           x="1863.7694"
            id="tspan5077"
            sodipodi:role="line">2</tspan></text>
       <path
          id="path5079"
-         d="m 1850.0195,-784.58605 15,0"
+         d="m 1890.0195,-784.58605 15,0"
          style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          id="path5081"
-         d="m 1850.0195,-777.08605 15,0"
+         d="m 1890.0195,-777.08605 15,0"
          style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          sodipodi:nodetypes="cc"
          id="path5083"
-         d="m 1785,-863.7403 37.5,0"
+         d="m 1825,-863.7403 37.5,0"
          style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 1787.5,-803.7403 35,0"
+         d="m 1827.5,-803.7403 35,0"
          id="path5085" />
       <g
          id="g6857"
-         transform="matrix(0.3,0,0,0.3,1044.5,-1208.8403)">
+         transform="matrix(0.3,0,0,0.3,1084.5,-1208.8403)">
         <path
            sodipodi:type="arc"
            style="opacity:0.95;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:8.00409698;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3241);enable-background:accumulate"
@@ -7048,7 +7067,7 @@
            style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:none" />
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1216.2694,-511.72094)"
+         transform="matrix(0.375,0,0,0.375,1256.2694,-511.72094)"
          id="g7221">
         <g
            style="opacity:0.25"
@@ -7180,7 +7199,7 @@
       </g>
       <g
          id="g7273"
-         transform="matrix(0.375,0,0,0.375,1216.2694,-451.72094)">
+         transform="matrix(0.375,0,0,0.375,1256.2694,-451.72094)">
         <g
            transform="matrix(0.5859374,0,0,0.5859374,-1277.8384,-1628.7369)"
            id="g7275"
@@ -7311,7 +7330,7 @@
       </g>
       <g
          id="g7325"
-         transform="matrix(0.375,0,0,0.375,1171.2694,-451.72094)">
+         transform="matrix(0.375,0,0,0.375,1211.2694,-451.72094)">
         <g
            transform="matrix(0.5859374,0,0,0.5859374,-1277.8384,-1628.7369)"
            id="g7327"
@@ -7441,7 +7460,7 @@
              sodipodi:role="line">I</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1486.2694,-451.77783)"
+         transform="matrix(0.375,0,0,0.375,1526.2694,-451.77783)"
          id="g7377">
         <g
            id="g7379"
@@ -7573,7 +7592,7 @@
       </g>
       <g
          id="g7429"
-         transform="matrix(0.375,0,0,0.375,1531.2694,-511.77783)">
+         transform="matrix(0.375,0,0,0.375,1571.2694,-511.77783)">
         <g
            style="opacity:0.25"
            transform="matrix(0.5859374,0,0,0.5859374,-1157.8384,-1628.7369)"
@@ -7704,7 +7723,7 @@
       </g>
       <g
          id="g7481"
-         transform="matrix(0.375,0,0,0.375,1441.2694,-511.77783)">
+         transform="matrix(0.375,0,0,0.375,1481.2694,-511.77783)">
         <g
            style="opacity:0.25"
            transform="matrix(0.5859374,0,0,0.5859374,-1037.8384,-1628.7369)"
@@ -7834,7 +7853,7 @@
              sodipodi:role="line">X</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1576.2694,-451.72094)"
+         transform="matrix(0.375,0,0,0.375,1616.2694,-451.72094)"
          id="g7533">
         <g
            style="opacity:0.25"
@@ -7965,7 +7984,7 @@
              style="stroke-width:2">I</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1486.2694,-511.72094)"
+         transform="matrix(0.375,0,0,0.375,1526.2694,-511.72094)"
          id="g7585">
         <g
            style="opacity:0.25"
@@ -8097,7 +8116,7 @@
       </g>
       <g
          id="g7637"
-         transform="matrix(0.375,0,0,0.375,1486.2694,-451.72094)">
+         transform="matrix(0.375,0,0,0.375,1526.2694,-451.72094)">
         <g
            transform="matrix(0.5859374,0,0,0.5859374,-1277.8384,-1628.7369)"
            id="g7639"
@@ -8227,7 +8246,7 @@
              sodipodi:role="line">I</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1621.2694,-511.72094)"
+         transform="matrix(0.375,0,0,0.375,1661.2694,-511.72094)"
          id="g7689">
         <g
            style="opacity:0.25"
@@ -8359,7 +8378,7 @@
       </g>
       <g
          id="g7741"
-         transform="matrix(0.375,0,0,0.375,1621.2694,-451.72094)">
+         transform="matrix(0.375,0,0,0.375,1661.2694,-451.72094)">
         <g
            transform="matrix(0.5859374,0,0,0.5859374,-1277.8384,-1628.7369)"
            id="g7743"
@@ -8491,28 +8510,28 @@
       <path
          sodipodi:nodetypes="ccccscc"
          id="path4421"
-         d="m 1330,-1043.7403 10,0 40,200 11.0714,0 c 0,0 4.3991,-8.37663 8.2143,-8.03571 3.2737,0.29253 5.7143,8.03571 5.7143,8.03571 l 15,0"
+         d="m 1370,-1043.7403 10,0 40,200 11.0714,0 c 0,0 4.3991,-8.37663 8.2143,-8.03571 3.2737,0.29253 5.7143,8.03571 5.7143,8.03571 l 15,0"
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 1;stroke-dashoffset:0;marker-end:url(#Arrow2Lend)" />
       <path
          id="path4423"
-         d="m 1330,-783.7403 20,0 30,-60"
+         d="m 1370,-783.7403 20,0 30,-60"
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 1;stroke-dashoffset:0" />
       <path
          sodipodi:nodetypes="cccaccc"
          id="path4425"
-         d="m 1330,-843.7403 10,0 20,25 c 0,0 6.8298,-6.9593 10,-5 4.2533,2.62865 0,15 0,15 l 20,25 30,0"
+         d="m 1370,-843.7403 10,0 20,25 c 0,0 6.8298,-6.9593 10,-5 4.2533,2.62865 0,15 0,15 l 20,25 30,0"
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 1;stroke-dashoffset:0;marker-end:url(#Arrow2Lend)" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 1;stroke-dashoffset:0"
-         d="m 1690,-783.7403 20,0 30,-60"
+         d="m 1730,-783.7403 20,0 30,-60"
          id="path5625" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 1;stroke-dashoffset:0;marker-end:url(#Arrow2Lend)"
-         d="m 1690,-843.7403 10,0 20,25 c 0,0 6.8298,-6.9593 10,-5 4.2533,2.62865 0,15 0,15 l 20,25 30,0"
+         d="m 1730,-843.7403 10,0 20,25 c 0,0 6.8298,-6.9593 10,-5 4.2533,2.62865 0,15 0,15 l 20,25 30,0"
          id="path5627"
          sodipodi:nodetypes="cccaccc" />
       <g
-         transform="matrix(0.375,0,0,0.375,1936.2694,-511.77783)"
+         transform="matrix(0.375,0,0,0.375,1976.2694,-511.77783)"
          id="g5629">
         <g
            id="g5631"
@@ -8644,7 +8663,7 @@
       </g>
       <g
          id="g5681"
-         transform="matrix(0.375,0,0,0.375,1981.2694,-451.72094)">
+         transform="matrix(0.375,0,0,0.375,2021.2694,-451.72094)">
         <g
            transform="matrix(0.5859374,0,0,0.5859374,-1277.8384,-1628.7369)"
            id="g5683"
@@ -8775,7 +8794,7 @@
       </g>
       <g
          id="g5733"
-         transform="matrix(0.375,0,0,0.375,1891.2694,-451.77783)">
+         transform="matrix(0.375,0,0,0.375,1931.2694,-451.77783)">
         <g
            style="opacity:0.25"
            transform="matrix(0.5859374,0,0,0.5859374,-1157.8384,-1628.7369)"
@@ -8905,7 +8924,7 @@
              y="-843.64032">Z</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1846.2694,-511.77783)"
+         transform="matrix(0.375,0,0,0.375,1886.2694,-511.77783)"
          id="g5785">
         <g
            id="g5787"
@@ -9037,7 +9056,7 @@
       </g>
       <g
          id="g5837"
-         transform="matrix(0.375,0,0,0.375,1891.2694,-511.72094)">
+         transform="matrix(0.375,0,0,0.375,1931.2694,-511.72094)">
         <g
            transform="matrix(0.5859374,0,0,0.5859374,-1277.8384,-1628.7369)"
            id="g5839"
@@ -9167,7 +9186,7 @@
              sodipodi:role="line">I</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1891.2694,-451.72094)"
+         transform="matrix(0.375,0,0,0.375,1931.2694,-451.72094)"
          id="g5889">
         <g
            style="opacity:0.25"
@@ -9299,7 +9318,7 @@
       </g>
       <g
          id="g5941"
-         transform="matrix(0.375,0,0,0.375,1846.2694,-511.72094)">
+         transform="matrix(0.375,0,0,0.375,1886.2694,-511.72094)">
         <g
            transform="matrix(0.5859374,0,0,0.5859374,-1277.8384,-1628.7369)"
            id="g5943"
@@ -9429,7 +9448,7 @@
              sodipodi:role="line">I</tspan></text>
       </g>
       <g
-         transform="matrix(0.375,0,0,0.375,1846.2694,-451.72094)"
+         transform="matrix(0.375,0,0,0.375,1886.2694,-451.72094)"
          id="g5993">
         <g
            style="opacity:0.25"
@@ -9561,7 +9580,7 @@
       </g>
       <rect
          y="-1018.7405"
-         x="1870"
+         x="1910"
          height="45"
          width="180"
          id="rect5453"
@@ -9569,18 +9588,18 @@
       <path
          sodipodi:nodetypes="cccccc"
          id="path5457"
-         d="m 1120,-1173.7403 210,0 180,20 180,0 190,-20 200,0"
+         d="m 1160,-1173.7403 210,0 180,20 180,0 190,-20 200,0"
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Lend)" />
       <rect
          style="fill:#41c041;fill-opacity:0.1254902;stroke:#3fc13f;stroke-width:0.5;stroke-opacity:1"
          id="rect5461"
          width="180"
          height="45"
-         x="1510"
+         x="1550"
          y="-1063.7404" />
       <rect
          y="-727.64032"
-         x="1360"
+         x="1400"
          height="80"
          width="80"
          id="rect9762"
@@ -9590,65 +9609,65 @@
          id="rect10566"
          width="80"
          height="80"
-         x="1720"
+         x="1760"
          y="-727.64032" />
       <text
          id="text10568"
          y="-672.78326"
-         x="1384.9609"
+         x="1424.9609"
          style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
          xml:space="preserve"><tspan
            y="-672.78326"
-           x="1384.9609"
+           x="1424.9609"
            id="tspan10570"
            sodipodi:role="line">H</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-         x="1744.9609"
+         x="1784.9609"
          y="-672.78326"
          id="text10572"><tspan
            sodipodi:role="line"
            id="tspan10574"
-           x="1744.9609"
+           x="1784.9609"
            y="-672.78326">H</tspan></text>
       <path
          id="path10576"
-         d="m 1040,-687.6403 320,0"
+         d="m 1080,-687.6403 320,0"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          id="path10578"
-         d="m 1440,-687.6403 280,0"
+         d="m 1480,-687.6403 280,0"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          id="path10580"
-         d="m 1800,-687.6403 280,0"
+         d="m 1840,-687.6403 280,0"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)" />
       <path
          sodipodi:nodetypes="cc"
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 1;stroke-dashoffset:0;marker-end:none"
-         d="m 1510,-1043.7403 -135,241.1"
+         d="m 1550,-1043.7403 -135,241.1"
          id="path19126" />
       <path
          id="path19320"
-         d="m 1870,-996.2631 -135,193.6228"
+         d="m 1910,-996.2631 -135,193.6228"
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 1;stroke-dashoffset:0;marker-end:none"
          sodipodi:nodetypes="cc" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 1;stroke-dashoffset:0;marker-end:url(#Arrow2Lend)"
-         d="m 1690,-995.7403 10,0 40,152 17.0714,0 c 0,0 4.3991,-8.37663 8.2143,-8.03571 3.2737,0.29253 5.7143,8.03571 5.7143,8.03571 l 9,0"
+         d="m 1730,-995.7403 10,0 40,152 17.0714,0 c 0,0 4.3991,-8.37663 8.2143,-8.03571 3.2737,0.29253 5.7143,8.03571 5.7143,8.03571 l 9,0"
          id="path19322"
          sodipodi:nodetypes="ccccscc" />
       <text
          sodipodi:linespacing="125%"
          id="text27096"
          y="-620.41199"
-         x="1327.8184"
+         x="1367.8184"
          style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
          xml:space="preserve"><tspan
            y="-620.41199"
-           x="1327.8184"
+           x="1367.8184"
            id="tspan27098"
            sodipodi:role="line">(Hadamard)</tspan></text>
     </g>
@@ -14688,23 +14707,23 @@
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
-       x="212"
+       x="217.46484"
        y="-206.7403"
        id="text36758"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan36760"
-         x="212"
-         y="-206.7403">Qubits</tspan></text>
+         x="217.46484"
+         y="-206.7403">Qubit</tspan></text>
     <path
        sodipodi:nodetypes="ccc"
        style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 297,-211.7403 40,0 0,15"
+       d="m 291,-211.7403 46,0 0,15"
        id="path36762" />
     <path
        sodipodi:nodetypes="ccc"
        style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 207,-211.7403 -40,0 0,15"
+       d="m 213,-211.7403 -46,0 0,15"
        id="path36764" />
     <g
        transform="matrix(0.375,0,0,0.375,273.2694,220.27906)"
@@ -15260,21 +15279,21 @@
        sodipodi:linespacing="125%"
        id="text36984"
        y="-206.7403"
-       x="652"
+       x="657.46484"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
        xml:space="preserve"><tspan
          y="-206.7403"
-         x="652"
+         x="657.46484"
          id="tspan36986"
-         sodipodi:role="line">Qubits</tspan></text>
+         sodipodi:role="line">Qubit</tspan></text>
     <path
        id="path36988"
-       d="m 737,-211.7403 40,0 0,15"
+       d="m 731,-211.7403 46,0 0,15"
        style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        sodipodi:nodetypes="ccc" />
     <path
        id="path36990"
-       d="m 647,-211.7403 -40,0 0,15"
+       d="m 653,-211.7403 -46,0 0,15"
        style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        sodipodi:nodetypes="ccc" />
     <rect
@@ -15437,23 +15456,23 @@
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
-       x="1092"
+       x="1097.4648"
        y="-206.7403"
        id="text37054"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan37056"
-         x="1092"
-         y="-206.7403">Qubits</tspan></text>
+         x="1097.4648"
+         y="-206.7403">Qubit</tspan></text>
     <path
        sodipodi:nodetypes="ccc"
        style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1177,-211.7403 40,0 0,15"
+       d="m 1171,-211.7403 46,0 0,15"
        id="path37058" />
     <path
        sodipodi:nodetypes="ccc"
        style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1087,-211.7403 -40,0 0,15"
+       d="m 1093,-211.7403 -46,0 0,15"
        id="path37060" />
     <rect
        style="color:#000000;fill:none;stroke:#a4a4a4;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -21974,21 +21993,21 @@
        sodipodi:linespacing="125%"
        id="text40704"
        y="473.2597"
-       x="212"
+       x="217.46484"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
        xml:space="preserve"><tspan
          y="473.2597"
-         x="212"
+         x="217.46484"
          id="tspan40706"
-         sodipodi:role="line">Qubits</tspan></text>
+         sodipodi:role="line">Qubit</tspan></text>
     <path
        id="path40708"
-       d="m 297,468.2597 40,0 0,15"
+       d="m 291,468.2597 46,0 0,15"
        style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        sodipodi:nodetypes="ccc" />
     <path
        id="path40710"
-       d="m 207,468.2597 -40,0 0,15"
+       d="m 213,468.2597 -46,0 0,15"
        style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        sodipodi:nodetypes="ccc" />
     <g
@@ -22545,21 +22564,21 @@
        sodipodi:linespacing="125%"
        id="text41000"
        y="473.2597"
-       x="652"
+       x="657.46484"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
        xml:space="preserve"><tspan
          y="473.2597"
-         x="652"
+         x="657.46484"
          id="tspan41002"
-         sodipodi:role="line">Qubits</tspan></text>
+         sodipodi:role="line">Qubit</tspan></text>
     <path
        id="path41004"
-       d="m 737,468.2597 40,0 0,15"
+       d="m 731,468.2597 46,0 0,15"
        style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        sodipodi:nodetypes="ccc" />
     <path
        id="path41006"
-       d="m 647,468.2597 -40,0 0,15"
+       d="m 653,468.2597 -46,0 0,15"
        style="fill:none;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        sodipodi:nodetypes="ccc" />
     <rect
