@@ -614,26 +614,6 @@
        sodipodi:type="inkscape:persp3d" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient5441"
-       id="linearGradient44679"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.5,0,0,0.5,-1390,-554.92017)"
-       x1="-981"
-       y1="-882.64032"
-       x2="-618.99988"
-       y2="-882.64032" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5441"
-       id="linearGradient44681"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.5,0,0,0.5,-1020,-599.92015)"
-       x1="-981"
-       y1="-882.64032"
-       x2="-618.99988"
-       y2="-882.64032" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3155"
        id="linearGradient44683"
        gradientUnits="userSpaceOnUse"
@@ -689,9 +669,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1528.018"
-     inkscape:cy="2233.7536"
+     inkscape:zoom="0.25"
+     inkscape:cx="1119.7438"
+     inkscape:cy="1835.5198"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -24764,7 +24744,7 @@
            x="574"
            y="992"
            style="font-size:24px" /></flowRegion><flowPara
-         id="flowPara44699">the operator IXZI, which *does* commute with both XIII and ZXZI.  Thus, we see that the subspace of the logical qubit is preserved by the transformation in the hamiltonian, as long as it is adiabatic.  Furthermore, note that we may multiply the logical X operator, XZII, by the first of the new stabilizers, XIII, to form the operator IZII.  Now in the new code --- which, again, has the same information as the old code, the logical X operator is IZII and the logical Z operator is IXZI.  If we swap these operators, we get a new form for the logical qubit that is analogous to our original form.  Hence, after the transformation, it is as if we had moved the information one step to the right and applied a Hadamard gate to it.  We may repeat this procedure again to move the information a second time and apply another Hadamard gate to it.</flowPara></flowRoot>    <flowRoot
+         id="flowPara44699">the operator IXZI, which *does* commute with both XIII and ZXZI.  Thus, we see that the subspace of the logical qubit is preserved by the transformation in the hamiltonian, as long as it is adiabatic.  Furthermore, note that we may multiply the logical X operator, XZII, by the first of the new stabilizers, XIII, to form the operator IZII.  Now in the new code --- which, again, has the same information as the old code --- the logical X operator is IZII and the logical Z operator is IXZI.  If we swap these operators, we get a new form for the logical qubit that is analogous to our original form.  Hence, after the transformation, it is as if we had moved the information one step to the right and applied a Hadamard gate to it.  We may repeat this procedure again to move the information a second time and apply another Hadamard gate to it.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot44733"
        style="font-size:24px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -24776,7 +24756,7 @@
            x="1652"
            y="1624"
            style="font-size:24px" /></flowRegion><flowPara
-         id="flowPara44739">Now consider an analogous picture, but with the &quot;twisted&quot; hamiltonians shown on the left, in which the X sandwiched between the two Z operators in the two terms have been replaced by new operators which consist of the operator X conjugated by respectively U and V, defined to the left.a unitary.  It can be shown [1] that the act of</flowPara></flowRoot>    <path
+         id="flowPara44739">Now consider an analogous picture, but with the &quot;twisted&quot; hamiltonians shown on the left, in which the X sandwiched between the two Z operators in the two terms have been replaced by new operators which consist of the operator X conjugated by respectively U and V, which are defined below.  It can be shown [1] that the act of</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1712,-163.64 0,222"
        id="path44895" />
@@ -24784,7 +24764,7 @@
        xml:space="preserve"
        id="flowRoot44897"
        style="font-size:24px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       transform="translate(0,-2199.64)"><flowRegion
+       transform="translate(20,-2199.64)"><flowRegion
          id="flowRegion44899"><rect
            id="rect44901"
            width="380"
@@ -24792,7 +24772,7 @@
            x="1724"
            y="1634"
            style="font-size:24px" /></flowRegion><flowPara
-         id="flowPara44903">transforming the hamiltonian adiabatically in this case not only moves the quantum information one step to the right and applies a Hadamard, but it also applies a unitary gate that is a function of an arbitrary angle.  The combination of these gates and the Hadamards gives a universal set which allow us to apply an arbitrary 1-qubit gate.</flowPara></flowRoot>    <rect
+         id="flowPara44903">transforming the hamiltonian adiabatically in this case not only moves the quantum information one step to the right and applies a Hadamard, but it also applies the conjugating unitary gate.  The arbitrariness of the angle used to define these gates combined with the Hadamard provides a universal set for arbitrary 1-qubit gates.</flowPara></flowRoot>    <rect
        y="742.2851"
        x="42.521557"
        height="274.76959"
@@ -24817,12 +24797,12 @@
        transform="translate(-8,-2205.64)"><flowRegion
          id="flowRegion44913"><rect
            id="rect44915"
-           width="687.31805"
-           height="623.08246"
+           width="687.31799"
+           height="615.08252"
            x="828.72913"
            y="2315.1042"
            style="font-size:24px" /></flowRegion><flowPara
-         id="flowPara44919">Up to now we have assumed that we are changing the hamiltonian one term at a time, but there are advantages to considering whether it is possible to get the same effect with a single transformation that changes all the terms at once.  It can be shown [2] that if this is done, then the desired computation is still performed.  However, we now need to worry about how quickly we can perform this whole-system transformation while staying in the ground state, which in general is a reciprocal function of the energy gap.  It can be shown [3] that in the case of the &quot;untwisted&quot; hamiltonian (the first case we described) there is an isomorphism between our system and the transverse Ising model, which implies that the gap scales polynomially with the scale of the system.  We have obtained numerical results, shown at right, using matrix product state techniques applied to twisted hamiltonians with random angles that strongly suggest that the energy gap for such systems scales inversely (and hence polynomially) with the number of physical qubits.</flowPara></flowRoot>    <text
+         id="flowPara44919">Up to now we have assumed that we are changing the hamiltonian one term at a time, but there are advantages to employing a single transformation that changes all the terms at once.  It can be shown [2] that if this is done, then the desired computation is still performed.  However, we now need to worry about how quickly we can perform this whole-system transformation while staying in the adiabatic regime, which depends on the magnitude  of the energy gap between the ground and excited states.  It can be shown [3] that in the case of the &quot;untwisted&quot; hamiltonian (the first case we described) there is an isomorphism between our system and the transverse Ising model, which implies that the energy gap scales polynomially with the scale of the system.  We have obtained numerical results using matrix product state techniques applied to twisted hamiltonians with random angles, shown at right, that provide strong evidence that the energy gap for such systems scales inversely (and hence polynomially) with the number of physical qubits.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        x="158.99495"
